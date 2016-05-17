@@ -1,0 +1,18 @@
+{
+    "libs":["browser"],
+    "loadEagerly":[
+    ],
+    "plugins":{
+        "complete_strings":{},
+        "doc_comment": {
+            "fullDocs":true,
+						"strong":true
+        },
+        "es_modules": {},
+        "modules": {},
+        "node":{},
+        "node_resolve": {},
+        "webpack": {}
+    }
+
+}
